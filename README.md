@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hi, I'm Vladimir 👋
+Software Engineer. I've been studying programming for about 3 years. Most of my work is related to project development.
 
+## 🛠 Technical Stack
+* Python/Go languages
+* PostgreSQL, Redis, MongoDB, Kafka.
+* REST, gRPC.
+* Git/Github, Docker.
 <!--
 **PhenHF/PhenHF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
